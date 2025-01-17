@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> All About Me</title>
+</head>
+<body>
+    <h1>About me</h1>
+    <img alt picture of me and friend black dress ="C:\Users\Ashley\OneDrive\Pictures\imageofme.jpg"
+    <h2>Ashley Gee</h2>
+    <h3>Ash</h3>
+    <p>Hi i'm Ashley, i am a graphic design major who wants to be a UX designer. 
+        I am currently in a relationship, and we have been together for 2 months now.  
+        I am a full-time student on-campus. I am taking this class to get a better understanding of coding and website development. I hope to easily understand this course and learn a lot. 
+        I like to play all types of games and I enjoy all outdoor outings.I love to swim, I have been swimming since I was eight. I grew up in Houston, TX. Something I like about BYUI is the people who are erally kind. 
+        I can make friends quite easily here. I have been a member of the church since I was 5 and my favorite scripture is Helaman 5:12. thank you for viewing. </p>
+</body>
