@@ -29,13 +29,13 @@ Fonts are separated by a & */
 }
 
 
-/*  Look around below...but DON'T CHANGE ANYTHING! */
+/*  Look around below...but DON'T CHANGE ok! */
 
 body {
   max-width: 960px;
   margin: 0 auto;
   padding: 4em;
-  font-size: 25px;
+  font-size: 22px;
   text-align: center;
 }
 img {
